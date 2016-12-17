@@ -1,2 +1,2 @@
 # XML-Creator
-a XML creator for Lifeboat//Overcast Network's PGM.
+a XML creator for Lifeboat/Overcast Network's PGM.
